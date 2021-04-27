@@ -39,6 +39,28 @@ ul {
   font-weight: bold;
 }
 
+#primary-nav {
+  background-color: lavender;
+  margin-top: 40px;
+  margin: 40px 0 100px 0;
+}
+
+ul {
+  display:inline-block;
+  padding-top: 5px;
+  padding-right: 15px;
+  padding-bottom:5px;
+  padding-left: 15px;
+}
+
+.active {
+  color: rgb(18, 108, 114); 
+}
+
+.centered {
+  text-align: center;
+}
+
 /*-
 comment
 -*/
